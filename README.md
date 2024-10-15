@@ -1,6 +1,6 @@
-# GraphRAG
+# 知识图谱-检索增强生成 GraphRAG
 
-👉 [Use the GraphRAG Accelerator solution](https://github.com/Azure-Samples/graphrag-accelerator) <br/>
+👉 [使用GraphRAG加速策划解决方案](https://github.com/Azure-Samples/graphrag-accelerator) <br/>
 👉 [Microsoft Research Blog Post](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)<br/>
 👉 [Read the docs](https://microsoft.github.io/graphrag)<br/>
 👉 [GraphRAG Arxiv](https://arxiv.org/pdf/2404.16130)
