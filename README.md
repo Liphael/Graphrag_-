@@ -22,13 +22,13 @@
 
 ## Overview
 
-The GraphRAG project is a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs.
+GraphRAG 项目是一个数据管道和转换套件，旨在利用大预言模型(LLMs)从**非结构化文本**中提取有意义的**结构化数据**。
 
-To learn more about GraphRAG and how it can be used to enhance your LLM's ability to reason about your private data, please visit the <a href="https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/" target="_blank">Microsoft Research Blog Post.</a>
+要了解更多关于 GraphRAG 的信息，以及如何使用它来增强LLM对您的私人数据进行推理的能力，请访问 <a href="https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/" target="_blank">Microsoft Research Blog Post.</a>
 
 ## Quickstart
 
-To get started with the GraphRAG system we recommend trying the [Solution Accelerator](https://github.com/Azure-Samples/graphrag-accelerator) package. This provides a user-friendly end-to-end experience with Azure resources.
+要开始使用 GraphRAG 系统，我们建议您尝试[Solution Accelerator](https://github.com/Azure-Samples/graphrag-accelerator)包，它提供了用户友好型 Azure 资源的端到端体验。
 
 ## Repository Guidance
 
