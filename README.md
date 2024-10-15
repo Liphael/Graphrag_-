@@ -32,7 +32,7 @@ GraphRAG 项目是一个数据流转换工具，旨在利用大预言模型(LLMs
 
 ## Repository Guidance
 
-This repository presents a methodology for using knowledge graph memory structures to enhance LLM outputs. Please note that the provided code serves as a demonstration and is not an officially supported Microsoft offering.
+此源库提供了一种使用知识图谱记忆结构来优化LLM输出的方法。注意，提供的源码仅用于展示，并非官方支持的 Microsoft 产品/服务。
 
 ⚠️ *Warning: GraphRAG indexing can be an expensive operation, please read all of the documentation to understand the process and costs involved, and start small.*
 
