@@ -22,7 +22,7 @@
 
 ## Overview
 
-GraphRAG 项目是一个数据管道和转换套件，旨在利用大预言模型(LLMs)从**非结构化文本**中提取有意义的**结构化数据**。
+GraphRAG 项目是一个数据流转换工具，旨在利用大预言模型(LLMs)从**非结构化文本**中提取有意义的**结构化数据**。
 
 要了解更多关于 GraphRAG 的信息，以及如何使用它来增强LLM对您的私人数据进行推理的能力，请访问 <a href="https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/" target="_blank">Microsoft Research Blog Post.</a>
 
