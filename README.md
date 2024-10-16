@@ -25,8 +25,8 @@
 [.github](https://github.com/Liphael/Graphrag_-/tree/main/.github)<br>
 - [.github](https://github.com/Liphael/Graphrag_-/tree/main/.github)文件夹包含Issues分区，拉取申请（pull request）分区和工作流分区。
 
-[.semversioner]()<br>
-- [.semversioner]([https://github.com/Liphael/Graphrag_-/tree/main/.github](https://github.com/Liphael/Graphrag_-/tree/main/.semversioner))文件夹主要包含先前的发行版本文件，以及一个即将发布的包分区。
+[.semversioner](https://github.com/Liphael/Graphrag_-/tree/main/.semversioner)<br>
+- [.semversioner](https://github.com/Liphael/Graphrag_-/tree/main/.semversioner)文件夹主要包含先前的发行版本文件，以及一个即将发布的包分区。
 
 [.vscode](https://github.com/Liphael/Graphrag_-/tree/main/.vscode)<br>
 - [.vscode](https://github.com/Liphael/Graphrag_-/tree/main/.vscode)文件夹内含三个使用vscode时的配置文件，extension是推荐的vscode拓展插件清单，launch文件时GraphRAG的调试配置文件，settings包含所需的配置参数。
