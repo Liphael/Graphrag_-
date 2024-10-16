@@ -24,7 +24,7 @@
 
 本节为像学习中的作者一样的初学者，作一些源文件中内容用途的注解：
 
-[.github](https://github.com/Liphael/Graphrag_-/tree/main/.github)<br>
+[.github](https://github.com/Liphael/Graphrag_-/tree/main/.github)
 - **.github**文件夹包含Issues分区，拉取申请（pull request）分区和工作流分区；
 
 [.semversioner](https://github.com/Liphael/Graphrag_-/tree/main/.semversioner)<br>
