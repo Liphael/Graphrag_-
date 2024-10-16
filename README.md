@@ -24,7 +24,7 @@
 
 本节为像学习中的作者一样的初学者，作一些源文件中内容用途的注解：
 
-- [.github](https://github.com/Liphael/Graphrag_-/tree/main/.github)：**.github**文件夹包含Issues分区，拉取申请（pull request）分区和工作流分区；
+- [.github](/.github)：**.github**文件夹包含Issues分区，拉取申请（pull request）分区和工作流分区；
 - [.semversioner](https://github.com/Liphael/Graphrag_-/tree/main/.semversioner)：**.semversioner**文件夹主要包含先前的发行版本文件，以及一个即将发布的包分区；
 - [.vscode](https://github.com/Liphael/Graphrag_-/tree/main/.vscode)：**.vscode**文件夹内含三个使用vscode时的配置文件，extension是推荐的vscode拓展插件清单，launch文件时GraphRAG的调试配置文件，settings包含所需的配置参数；
 - [docs](https://github.com/Liphael/Graphrag_-/tree/main/docs)：**docs**文件夹内含一系列官方的指导文档；详细的注解列表，将会在该文件夹README中给出；
