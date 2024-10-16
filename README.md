@@ -36,25 +36,22 @@
 
 ## 定义（原Overview）
 
-**GraphRAG** 是一个**文本数据流转换工具**，主要功能为将文本数据**结构化**；<br>
-工作原理为：使用**大预言模型(LLMs)**，以**非结构化文本**为原始数据，提取**结构化数据**作为输出。<br>
+**GraphRAG** 是一个**文本数据流转换工具**，主要功能为将文本数据**结构化**为**知识图谱**；<br>
+工作原理为：使用**大预言模型(LLMs)**，以**非结构化文本**为原始数据，提取**结构化数据**（主要形式为知识图谱）作为输出。<br>
 当前使用的LLM：[空]
 
 【![782FA49A](https://github.com/user-attachments/assets/4197f281-1d6e-49b8-b8b8-4f86d65ee206)
-原po：】要了解更多关于 GraphRAG 的信息，以及如何使用它来增强LLM对您的私人数据进行推理的能力，请访问 <a href="https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/" target="_blank">Microsoft Research Blog Post.</a>
+原po：】要了解更多关于 GraphRAG 的信息，以及如何使用它来增强LLM对您的私人数据进行推理的能力，请访问 <a href="https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/" target="_blank">Microsoft Research Blog Post.</a><br>
+【原声明&警告：】<br>
+⚠️ 声明：提供的源码仅用于展示，并非官方支持的 Microsoft 产品/服务。<br>
+⚠️ 警告：GraphRAG索引可能是一项开销极大的操作！请在实践前阅读所有文档，以便了解所涉及的过程和成本；并参照实际负载能力，从小规模运行批次开始！
 
-## Quickstart
+## 试用指南
+### 快速开始
 
 要开始使用 GraphRAG 系统，我们建议您尝试[Solution Accelerator](https://github.com/Azure-Samples/graphrag-accelerator)包，它提供了用户友好型 Azure 资源的端到端体验。
 
-## Repository Guidance
-
-此源库提供了一种使用知识图谱记忆结构来优化LLM输出的方法。注意，提供的源码仅用于展示，并非官方支持的 Microsoft 产品/服务。
-
-⚠️ *Warning: GraphRAG indexing can be an expensive operation, please read all of the documentation to understand the process and costs involved, and start small.*
-
-## Diving Deeper
-
+### 拓展内容
 - To learn about our contribution guidelines, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - To start developing _GraphRAG_, see [DEVELOPING.md](./DEVELOPING.md)
 - Join the conversation and provide feedback in the [GitHub Discussions tab!](https://github.com/microsoft/graphrag/discussions)
