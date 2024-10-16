@@ -1,5 +1,5 @@
 {
-	"_comment": "Use this file to configure the graphrag project for debugging. You may create other configuration profiles based on these or select one below to use.",
+	"_comment": "使用此文件配置graphrag项目进行调试。您可以基于这些配置文件创建其他配置文件，也可以在下面选择一个来使用。Use this file to configure the graphrag project for debugging. You may create other configuration profiles based on these or select one below to use.",
 	"version": "0.2.0",
 	"configurations": [
 		{
