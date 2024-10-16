@@ -34,11 +34,14 @@
 - [scripts](https://github.com/Liphael/Graphrag_-/tree/main/scripts)：**scripts**包含三个基本运行脚本；包括版本检查（semvercheck），拼写检查（spellcheck）以及一个azurite模拟器启动脚本；
 - [tests](https://github.com/Liphael/Graphrag_-/tree/main/tests)：**tests**为运行测试文件；
 
-## Overview
+## 定义（原Overview）
 
-GraphRAG 项目是一个数据流转换工具，旨在利用大预言模型(LLMs)从**非结构化文本**中提取有意义的**结构化数据**。
+**GraphRAG** 是一个**文本数据流转换工具**，主要功能为将文本数据**结构化**；<br>
+工作原理为：使用**大预言模型(LLMs)**，以**非结构化文本**为原始数据，提取**结构化数据**作为输出。<br>
+当前使用的LLM：[空]
 
-要了解更多关于 GraphRAG 的信息，以及如何使用它来增强LLM对您的私人数据进行推理的能力，请访问 <a href="https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/" target="_blank">Microsoft Research Blog Post.</a>
+【![782FA49A](https://github.com/user-attachments/assets/4197f281-1d6e-49b8-b8b8-4f86d65ee206)
+原po：】要了解更多关于 GraphRAG 的信息，以及如何使用它来增强LLM对您的私人数据进行推理的能力，请访问 <a href="https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/" target="_blank">Microsoft Research Blog Post.</a>
 
 ## Quickstart
 
