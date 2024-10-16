@@ -40,8 +40,7 @@
 工作原理为：使用**大预言模型(LLMs)**，以**非结构化文本**为原始数据，提取**结构化数据**（主要形式为知识图谱）作为输出。<br>
 当前使用的LLM：[空]
 
-【![782FA49A](https://github.com/user-attachments/assets/4197f281-1d6e-49b8-b8b8-4f86d65ee206)
-原po：】要了解更多关于 GraphRAG 的信息，以及如何使用它来增强LLM对您的私人数据进行推理的能力，请访问 <a href="https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/" target="_blank">Microsoft Research Blog Post.</a><br>
+【原po：】要了解更多关于 GraphRAG 的信息，以及如何使用它来增强LLM对您的私人数据进行推理的能力，请访问 <a href="https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/" target="_blank">Microsoft Research Blog Post.</a><br>
 【原声明&警告：】<br>
 ⚠️ 声明：提供的源码仅用于展示，并非官方支持的 Microsoft 产品/服务。<br>
 ⚠️ 警告：GraphRAG索引可能是一项开销极大的操作！请在实践前阅读所有文档，以便了解所涉及的过程和成本；并参照实际负载能力，从小规模运行批次开始！
