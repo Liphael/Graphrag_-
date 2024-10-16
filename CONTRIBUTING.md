@@ -11,15 +11,15 @@
 本项目基于[Microsoft开源项目开发行为准则](https://opensource.microsoft.com/codeofconduct/)。<br>
 更多详细信息，请参阅：[Microsoft开源项目开发行为准则 FAQ](https://opensource.microsoft.com/codeofconduct/faq/)，或者联系[opencode@microsoft.com](mailto:opencode@microsoft.com)以提出其他问题、意见等。
 
-## How to Contribute
+## 开发参与指南
 
-1. Fork the repository and clone it to your local machine.
-2. Create a new branch for your contribution: `git checkout -b my-contribution`.
-3. Make your changes and ensure that the code passes all tests.
-4. Commit your changes: `git commit -m "Add my contribution"`.
-5. Create and commit a semver impact document by running `poetry run semversioner add-change -t <major|minor|patch> -d <description>`.
-6. Push your changes to your forked repository: `git push origin my-contribution`.
-7. Open a pull request to the main repository.
+1. 创建库分支，并将其复制到本地主机。
+2. 为您的贡献内容创建一个新分支： `git checkout -b my-contribution`.
+3. 尝试您的修改，并**确保代码全部过测**。
+4. 提交更改：`git commit -m "Add my contribution"`.
+5. 通过运行： `poetry run semversioner add-change -t <major|minor|patch> -d <description>`创建并提交 semver 影响文档。
+6. 将更改推送到 fork 存储库： `git push origin my-contribution`.
+7. 新建对源库的拉取申请。
 
 ## Reporting Security Issues
 
