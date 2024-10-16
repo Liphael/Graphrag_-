@@ -1,20 +1,15 @@
-# Contributing to GraphRAG
+# 参与GraphRAG开发
 
-Thank you for your interest in contributing to GraphRAG! We welcome contributions from the community to help improve the project.
+首先由衷感谢你对**GraphRAG**作出的贡献！我们对帮助改进项目的社区贡献表示欢迎。
 
-## Code of Conduct
+## 开发行为准则
 
-This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA)
-declaring that you have the right to, and actually do, grant us the rights to use your contribution.
-For details, visit https://cla.microsoft.com.
+本项目欢迎贡献和建议。绝大多数贡献都要求您签署同意**贡献者许可协议**（以下简称CLA），以声明您有权利并实际授予我们使用您的贡献的权利。有关详细信息，请访问：https://cla.microsoft.com.
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need
-to provide a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the
-instructions provided by the bot. You will only need to do this once across all repositories using our CLA.
+当您提交拉取请求时，CLA机器人将自动确定您是否需要提供CLA并适当地修改**PR**（例如：标签、评论）。您只需按照机器人提供的说明进行操作即可，在所有存储库中，只需使用CLA执行此操作一次。
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
-or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+本项目基于[Microsoft开源项目开发行为准则](https://opensource.microsoft.com/codeofconduct/)。<br>
+更多详细信息，请参阅：[Microsoft开源项目开发行为准则 FAQ](https://opensource.microsoft.com/codeofconduct/faq/)，或者联系[opencode@microsoft.com](mailto:opencode@microsoft.com)以提出其他问题、意见等。
 
 ## How to Contribute
 
