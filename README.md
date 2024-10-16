@@ -20,22 +20,36 @@
   </a>
 </div>
 
-## [分支新增]本页文件列表：
+## [分支新增]本页文件列表（2024.10.16ver）：
+
+本节为像学习中的作者一样的初学者，作一些源文件中内容用途的注解：
 
 [.github](https://github.com/Liphael/Graphrag_-/tree/main/.github)<br>
-- [.github]文件夹包含Issues分区，拉取申请（pull request）分区和工作流分区。
+- **.github**文件夹包含Issues分区，拉取申请（pull request）分区和工作流分区；
 
 [.semversioner](https://github.com/Liphael/Graphrag_-/tree/main/.semversioner)<br>
-- [.semversioner]文件夹主要包含先前的发行版本文件，以及一个即将发布的包分区。
+- **.semversioner**文件夹主要包含先前的发行版本文件，以及一个即将发布的包分区；
 
 [.vscode](https://github.com/Liphael/Graphrag_-/tree/main/.vscode)<br>
-- [.vscode]文件夹内含三个使用vscode时的配置文件，extension是推荐的vscode拓展插件清单，launch文件时GraphRAG的调试配置文件，settings包含所需的配置参数。
+- **.vscode**文件夹内含三个使用vscode时的配置文件，extension是推荐的vscode拓展插件清单，launch文件时GraphRAG的调试配置文件，settings包含所需的配置参数；
 
-[.github](https://github.com/Liphael/Graphrag_-/tree/main/.github)<br>
-- [.github](https://github.com/Liphael/Graphrag_-/tree/main/.github)文件夹内容
+[docs](https://github.com/Liphael/Graphrag_-/tree/main/docs)<br>
+- **docs**文件夹内含一系列官方的指导文档；详细的注解列表，将会在该文件夹README中给出；
 
-[.github](https://github.com/Liphael/Graphrag_-/tree/main/.github)<br>
-- [.github](https://github.com/Liphael/Graphrag_-/tree/main/.github)文件夹内容
+[examples](https://github.com/Liphael/Graphrag_-/tree/main/examples)<br>
+- **examples**正如其名，为一个示例资源；
+
+[example_notebooks](https://github.com/Liphael/Graphrag_-/tree/main/examples_notebooks/community_contrib)<br>
+- **example_notebooks**为社区贡献的开发笔记归档。注意：所有的笔记本将按原样提供，且不保证与最新版本的GraphRAG兼容！
+
+[graphrag](https://github.com/Liphael/Graphrag_-/tree/main/graphrag)<br>
+- **graphrag**为GraphRAG项目的主要源码，如无须作必要开发，不推荐**在没有基础的前提下**对此处代码作修改；
+
+[scripts](https://github.com/Liphael/Graphrag_-/tree/main/scripts)<br>
+- **scripts**包含三个基本运行脚本；包括版本检查（semvercheck），拼写检查（spellcheck）以及一个azurite模拟器启动脚本；
+
+[tests](https://github.com/Liphael/Graphrag_-/tree/main/tests)<br>
+- **tests**为运行测试文件；
 
 ## Overview
 
