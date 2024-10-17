@@ -1,9 +1,9 @@
 # 知识图谱-检索增强生成 GraphRAG
 
 👉 [使用GraphRAG加速策划解决方案](https://github.com/Azure-Samples/graphrag-accelerator) <br/>
-👉 [Microsoft Research Blog Post](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)<br/>
-👉 [Read the docs](https://microsoft.github.io/graphrag)<br/>
-👉 [GraphRAG Arxiv](https://arxiv.org/pdf/2404.16130)
+👉 [Microsoft研究院发布博客](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)<br/>
+👉 [阅读官方文档](https://microsoft.github.io/graphrag)<br/>
+👉 [GraphRAG Arxiv论文](https://arxiv.org/pdf/2404.16130)
 
 <div align="left">
   <a href="https://pypi.org/project/graphrag/">
