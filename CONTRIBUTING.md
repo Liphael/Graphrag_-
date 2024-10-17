@@ -49,25 +49,25 @@
 如果基于先前的流程规则，您发现自己最终还是需要提交Issue，请使用 [issue tracker](https://github.com/microsoft/graphrag/issues)。
 提供尽可能多的详细信息，以帮助我们了解和解决问题。
 
-### Add information
+### 补充信息
 
-**Complete the new Issue form, providing as much information as possible**. The more information you provide, the more likely your issue/ask will be understood and implemented. Helpful information includes:
+**填写新的Issue表单，并提供尽可能多的信息**。您提供的信息越多，您的问题或建议就越有可能被理解和采纳。有用信息的例子包括但不限于：
 
-- What device you're running (inc. CPU type, memory, disk, etc.)
-- What OS your device is running
-- What tools and apps you're using (e.g. VS 2022, VSCode, etc.)
-- **We LOVE detailed repro steps!** What steps do we need to take to reproduce the issue? Assume we love to read repro steps. As much detail as you can stand is probably _barely_ enough detail for us!
-- Prefer error message text where possible or screenshots of errors if text cannot be captured
-- **If you intend to implement the fix/feature yourself then say so!** If you do not indicate otherwise we will assume that the issue is our to solve, or may label the issue as `Help-Wanted`.
+- 用于运行的设备信息(包括CPU类型、内存、硬盘等等)；
+- 用于运行的操作系统；
+- 您所使用的工具，APP等(例如VS 2022、VSCode等等)；
+- **详细的重现步骤使相当受欢迎的**！我们需要重复哪些步骤来重现该问题？请假想我们爱死读取重现步骤这个环节了，您所能提供尽可能多的细节对我们来说可能都远远不够！
+- 如果可能的话，附上错误消息文本使首选项；如果无法捕获该文本，那么可以用错误信息的屏幕截图来代替；
+- 如果您打算自己进行修复或功能实现，请务必注明！如果您没有注明的话，我们将假定该问题是需要由我们来解决的，或者我们可能会将该问题标记为`寻求帮助中`。
 
-### DO NOT post "+1" comments
+### 请不要发布 “+1” 类型的评论
 
-> ⚠ DO NOT post "+1", "me too", or similar comments - they just add noise to an issue.
+> ⚠ 不要在板块中发布 “+1”、“我也是这样” 以及类似的评论————这些只是一些废话，对问题的解决毫无帮助。
 
-If you don't have any additional info/context to add but would like to indicate that you're affected by the issue, upvote the original issue by clicking its [+😊] button and hitting 👍 (+1) icon. This way we can actually measure how impactful an issue is.
+如果你没有任何其他要补充的信息或上下文，但想表明你受到该问题的影响，请点击 [+😊] 按钮，并点击 👍 （+1） 图标来为原始问题投赞成票。**通过这种方式，我们实际上就能衡量这个 issue 的影响范围有多大**。
 
 ---
 
-## Thank you
+## 再次致谢
 
-We appreciate your contributions to GraphRAG!
+再一次感谢您对**GraphRAG**的贡献！
