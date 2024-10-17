@@ -51,34 +51,32 @@
 要开始使用 GraphRAG 系统，我们建议您尝试[Solution Accelerator](https://github.com/Azure-Samples/graphrag-accelerator)包，它提供了用户友好型 Azure 资源的端到端体验。
 
 ### 拓展内容
-- To learn about our contribution guidelines, see [CONTRIBUTING.md](./CONTRIBUTING.md)
-- To start developing _GraphRAG_, see [DEVELOPING.md](./DEVELOPING.md)
-- Join the conversation and provide feedback in the [GitHub Discussions tab!](https://github.com/microsoft/graphrag/discussions)
+- 阅读协作指南以了解一些基本的协作约定： [CONTRIBUTING.md](./CONTRIBUTING.md)
+- 阅读开发文件，以为您的开发作基本指导： [DEVELOPING.md](./DEVELOPING.md)
+- 您还可以在此页面加入社区交流，提供反馈： [GitHub Discussions tab!](https://github.com/microsoft/graphrag/discussions)
 
-## Prompt Tuning
+### 提示工程调整
 
-Using _GraphRAG_ with your data out of the box may not yield the best possible results.
-We strongly recommend to fine-tune your prompts following the [Prompt Tuning Guide](https://microsoft.github.io/graphrag/posts/prompt_tuning/overview/) in our documentation.
+**GraphRAG**直接使用未经处理的原始数据，可能无法输出理想的结果；我们强烈建议您参照 [Prompt Tuning Guide](https://microsoft.github.io/graphrag/posts/prompt_tuning/overview/) ，针对**提示工程**做出微调。
 
-## Responsible AI FAQ
+## 责任性AI（负责任AI，RAI） FAQ
 
-See [RAI_TRANSPARENCY.md](./RAI_TRANSPARENCY.md)
+请参照： [RAI_TRANSPARENCY.md](./RAI_TRANSPARENCY.md)
 
-- [What is GraphRAG?](./RAI_TRANSPARENCY.md#what-is-graphrag)
-- [What can GraphRAG do?](./RAI_TRANSPARENCY.md#what-can-graphrag-do)
-- [What are GraphRAG’s intended use(s)?](./RAI_TRANSPARENCY.md#what-are-graphrags-intended-uses)
-- [How was GraphRAG evaluated? What metrics are used to measure performance?](./RAI_TRANSPARENCY.md#how-was-graphrag-evaluated-what-metrics-are-used-to-measure-performance)
-- [What are the limitations of GraphRAG? How can users minimize the impact of GraphRAG’s limitations when using the system?](./RAI_TRANSPARENCY.md#what-are-the-limitations-of-graphrag-how-can-users-minimize-the-impact-of-graphrags-limitations-when-using-the-system)
-- [What operational factors and settings allow for effective and responsible use of GraphRAG?](./RAI_TRANSPARENCY.md#what-operational-factors-and-settings-allow-for-effective-and-responsible-use-of-graphrag)
+- [GraphRAG是什么？](./RAI_TRANSPARENCY.md#what-is-graphrag)
+- [GraphRAG做什么？](./RAI_TRANSPARENCY.md#what-can-graphrag-do)
+- [GraphRAG的用途？](./RAI_TRANSPARENCY.md#what-are-graphrags-intended-uses)
+- [GraphRAG如何评估？性能用什么指标来衡量？](./RAI_TRANSPARENCY.md#how-was-graphrag-evaluated-what-metrics-are-used-to-measure-performance)
+- [GraphRAG的受限性？如何最小化GraphRAG受限性的影响？](./RAI_TRANSPARENCY.md#what-are-the-limitations-of-graphrag-how-can-users-minimize-the-impact-of-graphrags-limitations-when-using-the-system)
+- [为了有效并负责任地使用GraphRAG，应当采用什么样的操作参数和设置？](./RAI_TRANSPARENCY.md#what-operational-factors-and-settings-allow-for-effective-and-responsible-use-of-graphrag)
 
-## Trademarks
+## 商业标识
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
-trademarks or logos is subject to and must follow
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+本项目可能包含项目、产品或服务的商标或徽标。Microsoft商标或标志的授权使用，必须服从且遵循
+[Microsoft's Trademark & Brand Guidelines Microsoft商标&品牌指南](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
+在本项目的衍生版本中使用**Microsoft**商标、徽标等，不得引起混淆、或暗示**Microsoft**赞助。
+对第三方商标或徽标的任何使用，均受这些第三方政策的约束。
 
-## Privacy
+## 隐私申明
 
-[Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement)
+[Microsoft隐私申明](https://privacy.microsoft.com/en-us/privacystatement)
