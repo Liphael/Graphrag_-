@@ -4,8 +4,8 @@
 
 | 名称                | 下载源                                                 | 组件用途                                                                             |
 | ------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| Python 3.10 or 3.11 | [Download](https://www.python.org/downloads/)                | The library is Python-based.                                                        |
-| Poetry              | [Instructions](https://python-poetry.org/docs/#installation) | Poetry is used for package management and virtualenv management in Python codebases |
+| Python 3.10 或 3.11 | [下载链接](https://www.python.org/downloads/)                | 本库基于Python     |
+| Poetry              | [Instructions](https://python-poetry.org/docs/#installation) | Poetry将用于Python代码库中的包管理和virtualenv管理 |
 
 # Getting Started
 
