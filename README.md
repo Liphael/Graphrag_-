@@ -51,7 +51,7 @@
 要开始使用 GraphRAG 系统，我们建议您尝试[Solution Accelerator](https://github.com/Azure-Samples/graphrag-accelerator)包，它提供了用户友好型 Azure 资源的端到端体验。
 
 ### 拓展内容
-- 阅读协作指南以了解一些基本的协作约定： [CONTRIBUTING.md](./CONTRIBUTING.md)
+- 阅读协作指南以了解一些基本的协作约定： [协作者指南.md](./协作者指南.md)
 - 阅读开发文件，以为您的开发作基本指导： [DEVELOPING.md](./DEVELOPING.md)
 - 您还可以在此页面加入社区交流，提供反馈： [GitHub Discussions tab!](https://github.com/microsoft/graphrag/discussions)
 
