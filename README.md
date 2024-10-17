@@ -52,7 +52,7 @@
 
 ### 拓展内容
 - 阅读协作指南以了解一些基本的协作约定： [协作者指南.md](./协作者指南.md)
-- 阅读开发文件，以为您的开发作基本指导： [DEVELOPING.md](./DEVELOPING.md)
+- 阅读开发文件，以为您的开发作基本指导： [开发指南.md](./开发指南.md)
 - 您还可以在此页面加入社区交流，提供反馈： [GitHub Discussions tab!](https://github.com/microsoft/graphrag/discussions)
 
 ### 提示工程调整
