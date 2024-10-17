@@ -21,26 +21,25 @@
 6. 将更改推送到 fork 存储库： `git push origin my-contribution`.
 7. 新建对源库的拉取申请。
 
-## Reporting Security Issues
+## 有关安全性问题的反馈
+**请不要通过 GitHub Issues 公共板块报告安全漏洞！** 如有安全性漏洞，请向微软安全响应中心（MSRC）报告它们。有关更多信息请参照 [SECURITY.md](./SECURITY.md)。
 
-**Please do not report security vulnerabilities through public GitHub issues.** Instead, please report them to the Microsoft Security Response Center (MSRC).
-See [SECURITY.md](./SECURITY.md) for more information.
+## 协作开发：公共基本规则
 
-## Before you start, file an issue
+在您开始参与开发协作之前，请先建立Issues档案。<br>
+请遵循这个简单的规则，以便帮助我们避免产生一切不必要挫败感，以及精力浪费；确保能高效地利用每个人的时间————你的，我们的，以及其他一切社区成员的时间：
 
-Please follow this simple rule to help us eliminate any unnecessary wasted effort & frustration, and ensure an efficient and effective use of everyone's time - yours, ours, and other community members':
+> 👉 如果你有疑问、且认为你发现了一个问题，或者想提出一个新功能等等；在你开始工作之前，希望您先在Issue板块检索、或提交一个Issue，来尝试修复/实施它（而不是自己一个人直接开干）。
 
-> 👉 If you have a question, think you've discovered an issue, would like to propose a new feature, etc., then find/file an issue **BEFORE** starting work to fix/implement it.
+### （提交新Issue之前）先搜索现有的Issues
 
-### Search existing issues first
+在提交新 Issue 之前，请先搜索现有的未解决和已关闭的 Issue：这个项目进展很快！其他人可能已经发现了您看到的问题，并且有人可能正在处理或已经提供了修复程序！
 
-Before filing a new issue, search existing open and closed issues first: This project is moving fast! It is likely someone else has found the problem you're seeing, and someone may be working on or have already contributed a fix!
+如果没有现有项目描述您的问题/功能，那恭喜您发现了华点 - 请新建一个新Issue档案：
 
-If no existing item describes your issue/feature, great - please file a new issue:
+### 新建Issue档案
 
-### File a new Issue
-
-- Don't know whether you're reporting an issue or requesting a feature? File an issue
+- 不知道您需要报告问题还是请求功能？新建Issue档案；
 - Have a question that you don't see answered in docs, videos, etc.? File an issue
 - Want to know if we're planning on building a particular feature? File an issue
 - Got a great idea for a new feature? File an issue/request/idea
