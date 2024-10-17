@@ -40,14 +40,14 @@
 ### 新建Issue档案
 
 - 不知道您需要报告问题还是请求功能？新建Issue档案；
-- Have a question that you don't see answered in docs, videos, etc.? File an issue
-- Want to know if we're planning on building a particular feature? File an issue
-- Got a great idea for a new feature? File an issue/request/idea
-- Don't understand how to do something? File an issue
-- Found an existing issue that describes yours? Great - upvote and add additional commentary / info / repro-steps / etc.
+- 存在疑问，但在文档、视频等中看不到答案？新建Issue档案；
+- 想知道我们是否计划构建特定功能？新建Issue档案；
+- 对新功能有个好想法？新建Issue档案；
+- 不明白有些工程怎么做？还是新建Issue档案！
+- 发现了描述您的问题的现有Issue？那真是太方便了 - 点赞并添加额外的评论 / 信息 / 复现步骤 / 等等等等。
 
-If from the previous guide you find yourself in the need of file an Issue please use the [issue tracker](https://github.com/microsoft/graphrag/issues).
-Provide as much detail as possible to help us understand and address the problem.
+如果基于先前的流程规则，您发现自己最终还是需要提交Issue，请使用 [issue tracker](https://github.com/microsoft/graphrag/issues)。
+提供尽可能多的详细信息，以帮助我们了解和解决问题。
 
 ### Add information
 
